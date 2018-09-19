@@ -1,0 +1,16 @@
+{
+    "name": "fengyun/laravel-graphql-etl",
+    "description": "A mini elt tool for graphql api base on laravel project.",
+    "type": "library",
+    "require": {
+        "folklore/graphql": "~1.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fengyun",
+            "email": "qikelaiye@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
