@@ -12,5 +12,10 @@
             "email": "qikelaiye@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Fengyun\\Etl\\": "src/"
+        }
+    },
     "minimum-stability": "stable"
 }
